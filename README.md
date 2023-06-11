@@ -1,6 +1,8 @@
 # Requirements
 https://github.com/notnotnotswipez/Marrow-ExtendedSDK-PATCH-2
+
 Your extended SDK patch 2 folder has to be located in assets and named "Marrow-ExtendedSDK-PATCH-2-main".
+
 If you have Lux URP, Fusion intergration, or Nature Manufacture packages installed, this might create script duplicates, delete the ones in the ExtendedSDK folder.
 
 # Creation Guide
